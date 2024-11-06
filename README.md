@@ -29,3 +29,7 @@ For more details and white papers on HookChain’s techniques and implementation
 ## White Paper
 
 - [HookChain White Paper](https://arxiv.org/abs/2404.16856)
+
+## References
+
+- https://github.com/helviojunior/hookchain
