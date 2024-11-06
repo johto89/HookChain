@@ -33,3 +33,7 @@ For more details and white papers on HookChain’s techniques and implementation
 ## References
 
 - https://github.com/helviojunior/hookchain
+
+## Disclaimer
+
+This proof of concept (PoC) is developed solely for educational and research purposes. It is intended to help security professionals understand EDR evasion techniques in controlled environments. Unauthorized use of this code in production environments or any non-permitted context is strictly prohibited. Always ensure you have the necessary permissions before testing or deploying any security tools or techniques. Misuse of this PoC is the sole responsibility of the user.
