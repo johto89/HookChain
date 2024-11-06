@@ -1,0 +1,7 @@
+D:\CodeSample\.Net\HookChain\HookChain\bin\Debug\HookChain.exe.config
+D:\CodeSample\.Net\HookChain\HookChain\bin\Debug\HookChain.exe
+D:\CodeSample\.Net\HookChain\HookChain\bin\Debug\HookChain.pdb
+D:\CodeSample\.Net\HookChain\HookChain\obj\Debug\HookChain.csproj.AssemblyReference.cache
+D:\CodeSample\.Net\HookChain\HookChain\obj\Debug\HookChain.csproj.CoreCompileInputs.cache
+D:\CodeSample\.Net\HookChain\HookChain\obj\Debug\HookChain.exe
+D:\CodeSample\.Net\HookChain\HookChain\obj\Debug\HookChain.pdb
